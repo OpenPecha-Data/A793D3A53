@@ -1,0 +1,24 @@
+id: A793D3A53
+title: Sarvadharmāpravṛttinirdeśa
+type: translation
+pechas:
+- IB8A370A0
+- IEB8C12CF
+- IA3FF4F88
+- I944CB345
+- I9EE54F2E
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 15:25:16.252343
+  last_modified_at: 2023-02-08 15:25:16.252359
+alignment_to_base:
+  IB8A370A0/428E: 53D7
+  IEB8C12CF/007E: 53D7
+  IA3FF4F88/E05B: 53D7
+  I944CB345/79DF: 53D7
+  I9EE54F2E/4389: 53D7
